@@ -1,0 +1,19 @@
+id: AFA57435C
+title: 'RK: Gaṅgottaraparipṛcchā'
+type: translation
+pechas:
+- I24D7FBC9
+- IA7400770
+- I028609DE
+source_metadata:
+  languages:
+  - bo
+  - zh
+  - en
+  datatype: PlainText
+  created_at: 2023-02-09 14:57:07.270021
+  last_modified_at: 2023-02-09 14:57:07.270033
+alignment_to_base:
+  I24D7FBC9/2DCD: 80D6
+  IA7400770/B250: 80D6
+  I028609DE/A444: 80D6
